@@ -1,0 +1,17 @@
+{
+  "name": "simple-page",
+  "version": "1.0.0",
+  "description": "bem-xjst example: simple page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bem-xjst example"
+  ],
+  "author": "Slava Oliyanchuk <miripiruni@gmail.com> (http://miripiruni.org/)",
+  "license": "MIT",
+  "dependencies": {
+    "bem-xjst": "6.2.0"
+  }
+}
